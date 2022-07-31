@@ -20,3 +20,4 @@ hello atguigu! hello git!
 lhc假的
 在减肥的减肥感受不到付给和度过
 if价格低谷电费户工行
+试试ssh
